@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Taksi Uygulaması Tasarımı</string>
+    <string name="sms_dogrulama_ekrani_aciklamasi">SMS doğrulaması için\ntelefon numaranızı yazınız.</string>
+    <string name="sms_dogrulama_ekrani_butonu">Gönder</string>
+    <string name="sms_dorulama_ekrani_numara_ornegi">+000 000 00 00</string>
+    <string name="sms_dogrulama_ekrani_hos_geldiniz_yazisi">Hoş Geldiniz!</string>
+    <string name="karti_ekle">Kartı Ekle</string>
+    <string name="cvv">CVV</string>
+    <string name="son_kullanma_tarihi">Son Kullanma Tarihi</string>
+    <string name="kart_numarasi">Kart Numarası</string>
+    <string name="kart_uzerindeki_isim">Kart üzerindeki isim</string>
+    <string name="kart_ekle">Kart Ekle</string>
+    <string name="taksi_cagir_ve_yolculugu_baslat">Taksi çağır ve yolculuğu başlat</string>
+    <string name="nereye_gideceksiniz">Nereye gideceksiniz?</string>
+    <string name="puan_ver">Puan Ver</string>
+    <string name="ucret">14.45 TL</string>
+    <string name="yolculuk_tarihi">24 Aralık 2020 Saat 17:52</string>
+    <string name="yolculuk_ucreti">Yolculuk ücreti:</string>
+    <string name="surucu_ad_soyad">Sürücü Ad Soyad</string>
+    <string name="surucuye_puan_ver">Sürücüye puan ver</string>
+    <string name="mesajiniz">Mesajınız...</string>
+    <string name="oyla">Oyla</string>
+    <string name="dogrula">Doğrula</string>
+    <string name="lutfen_size_gonderilen_dogrulama_kodunu_yaziniz">Lütfen size gönderilen\ndoğrulama kodunu yazınız.</string>
+    <string name="dogrulama_kodu">Doğrulama Kodu</string>
+    <string name="adres">Adres</string>
+</resources>
